@@ -11,7 +11,6 @@ El servidor es **server-authoritative**: valida turnos, rondas y habilidades de 
 - Java
 - Spring Boot
 - WebSockets (STOMP)
-- Arquitectura Hexagonal
 
 ---
 
