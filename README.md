@@ -62,7 +62,7 @@ git clone https://github.com/sauldm/batalla-urbana-back
 cd batalla-urbana-back
 mvn clean spring-boot:run
 ```
-
+Disponible en: http://localhost:8080
 ---
 
 ## WebSockets
