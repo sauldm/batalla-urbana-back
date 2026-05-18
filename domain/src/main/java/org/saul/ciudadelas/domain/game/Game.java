@@ -159,7 +159,7 @@ public class Game {
         if (playerThief == null) throw new InternalGameException("El jugador que roba no puede ser nulo");
         Player playerRobed = findPlayerByCharacterId(characterRobed.getId());
         if (characterRobbed.equals(characterSkipped)){
-            eventBuffer.add(new EventMessage(Events.MESSAGE,"Personaje asesinado, no puede ser robado"));
+            eventBuffer.add(new EventMessage(Events.MESSAGE,"Personaje verdugo, no puede ser robado"));
             return;
         }
         eventBuffer.add(new EventMessage(Events.CHARACTER_CARD_STEALED, "El personaje "+characterRobed.getName()+" ha sido robado por el "+characterThief.getName()));

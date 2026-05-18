@@ -12,5 +12,6 @@ public class CardDTO {
     private Long gold;
     private String name;
     private String description;
+    private boolean undestructible;
     private int color;
 }

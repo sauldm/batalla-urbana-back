@@ -28,6 +28,6 @@ public class ArchitectActionCard extends CharacterCard implements StartTurnActio
         List<DistrictCard> districtCardsGained = game.getDistrictCards(2);
         player.addDistrictCardsInHand(districtCardsGained);
         player.setPrivateDistrictGained(districtCardsGained);
-        game.getEventsBuffer().add(new EventMessage(Events.ARQUITECT,"Cartas obtenidas por el arquitecto"));
+        game.getEventsBuffer().add(new EventMessage(Events.ARQUITECT,"Cartas obtenidas por el forjador"));
     }
 }

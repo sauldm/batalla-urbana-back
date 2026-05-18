@@ -12,7 +12,7 @@ import org.saul.ciudadelas.domain.game.players.Player;
 public class TakeThreeActionCard extends DistrictCard implements OptionalEpicCard {
 
     public TakeThreeActionCard(Long id) {
-        super(id,"Take Three Action", Color.PURPLE, false,"TakeTh",5L, 6);
+        super(id,"Pozo de la suerte", Color.PURPLE, false,"Consigue 3 cartas por 2 de oro",5L, 6);
     }
 
     @Override

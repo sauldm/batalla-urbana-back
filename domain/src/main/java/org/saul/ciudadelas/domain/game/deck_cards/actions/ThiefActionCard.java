@@ -25,7 +25,7 @@ public class ThiefActionCard extends CharacterCard implements OtherPlayerActionC
             game.getEventsBuffer().add(new EventMessage(Events.MESSAGE,"El jugador no puede elegirse a si mismo"));
             return;
         }
-        if (characterRobbed.getClass().equals(AssassinActionCard.class)) throw new InternalGameException("No puedes robar al asesino");
+        if (characterRobbed.getClass().equals(AssassinActionCard.class)) throw new InternalGameException("No puedes robar al verdugo");
         RoundEvent event = new RoundEvent(characterCardId, (actualGame) -> {
             actualGame.stoleCharacterGold(characterRobbed,this);
         });
