@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf085e23-fed8-43c1-b33c-d4b15dc4cf36" name="Changes" comment="Cambio de nombre y descripción de personajes">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/ciudadelas.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/data/ciudadelas.mv.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/src/main/java/org/saul/ciudadelas/domain/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/main/java/org/saul/ciudadelas/domain/game/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/src/main/java/org/saul/ciudadelas/domain/game/deck_cards/actions/ArchitectActionCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/main/java/org/saul/ciudadelas/domain/game/deck_cards/actions/ArchitectActionCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/src/main/java/org/saul/ciudadelas/domain/game/deck_cards/actions/TakeThreeActionCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/main/java/org/saul/ciudadelas/domain/game/deck_cards/actions/TakeThreeActionCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/src/main/java/org/saul/ciudadelas/domain/game/deck_cards/actions/ThiefActionCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/main/java/org/saul/ciudadelas/domain/game/deck_cards/actions/ThiefActionCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in/src/main/java/org/saul/ciudadelas/in/dto/CardDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/in/src/main/java/org/saul/ciudadelas/in/dto/CardDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in/src/main/java/org/saul/ciudadelas/in/mappers/CardDTOMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/in/src/main/java/org/saul/ciudadelas/in/mappers/CardDTOMapper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -584,7 +577,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768148210031</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Cambio de nombre y descripción de personajes">
+      <option name="closed" value="true" />
+      <created>1779126227603</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1779126227603</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="UnknownFeatures">
