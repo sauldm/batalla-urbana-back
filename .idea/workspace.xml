@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf085e23-fed8-43c1-b33c-d4b15dc4cf36" name="Changes" comment="Cambio de nombre y descripción de personajes">
+    <list default="true" id="cf085e23-fed8-43c1-b33c-d4b15dc4cf36" name="Changes" comment="fix: config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/src/main/java/org/saul/ciudadelas/in/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/in/src/main/java/org/saul/ciudadelas/in/GameController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -592,7 +593,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779738971816</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="fix: config">
+      <option name="closed" value="true" />
+      <created>1779910192196</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1779910192196</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -631,7 +640,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="funciones de asesino y ladron" />
     <MESSAGE value="funcion de cambio de cartas de wizard" />
     <MESSAGE value="Creacion de todas las cartas de personaje y funcionalidad de ejecutar las habilidades de personaje" />
     <MESSAGE value="Arreglados las habilidades de los personajes asesino, ladron y mago" />
@@ -656,7 +664,8 @@
     <MESSAGE value="arreglo ronda" />
     <MESSAGE value="Tablas de clasificación" />
     <MESSAGE value="Cambio de nombre y descripción de personajes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cambio de nombre y descripción de personajes" />
+    <MESSAGE value="fix: config" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: config" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

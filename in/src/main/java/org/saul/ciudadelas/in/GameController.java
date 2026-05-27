@@ -209,7 +209,7 @@ public class GameController {
         webSocketSender.sendPrivateInfo(gameEvent);
     }
 
-    @GetMapping("/getClassificationTable")
+    @GetMapping("/api/getClassificationTable")
     public List<PlayerClassification> getClassificationTable(){
         return playerService.getClassificationTable();
     }
