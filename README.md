@@ -16,7 +16,7 @@ El servidor es **server-authoritative**: valida turnos, rondas y habilidades de 
 
 ## Demo online
 
-- Aplicación web: http://93.93.112.225
+- Aplicación web: http://batallaurbana.com
 
 ---
 
