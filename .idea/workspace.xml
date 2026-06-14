@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cf085e23-fed8-43c1-b33c-d4b15dc4cf36" name="Changes" comment="fix: config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in/src/main/java/org/saul/ciudadelas/in/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/in/src/main/java/org/saul/ciudadelas/in/GameController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +31,12 @@
     &quot;assignee&quot;: &quot;sauldm&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/sauldm/batalla-urbana-back.git&quot;,
-    &quot;accountId&quot;: &quot;6ad56652-dfc9-41b2-adca-63a4f1455e33&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sauldm/batalla-urbana-back.git",
+    "accountId": "f411529f-7aa8-4661-8d25-9c1997d3ad69"
   }
-}</component>
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -217,6 +216,9 @@
       <item itemvalue="Application.org.saul.ciudadelas.Main" />
       <item itemvalue="JUnit.GameTest.gameTest" />
       <item itemvalue="Maven.Ciudadelas [clean,install]" />
+      <item itemvalue="Spring Boot.Main" />
+      <item itemvalue="Spring Boot.Main (1)" />
+      <item itemvalue="Spring Boot.Main (2)" />
     </list>
     <recent_temporary>
       <list>
@@ -228,7 +230,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
       </set>
     </attachedChunks>
   </component>

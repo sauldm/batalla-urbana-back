@@ -6,5 +6,5 @@ public class GameConstants {
     public final static Long INITIAL_PLAYER_GOLD = 2L;
     public final static Long TURN_PLAYER_GOLD = 2L;
     public final static Integer TURN_DISTRICT_CARD_PLAYER = 2;
-    public final static Integer MAX_DISTRICTS_TO_BUILD_GAME = 8;
+    public final static Integer MAX_DISTRICTS_TO_BUILD_GAME = 3;
 }
